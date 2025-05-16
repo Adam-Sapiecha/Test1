@@ -1,4 +1,6 @@
-﻿public enum DeletePartiaResult { Success, Conflict, NotFound }
+﻿using Microsoft.Data.SqlClient;
+
+public enum DeletePartiaResult { Success, Conflict, NotFound }
 
 
 public interface IPartiaService

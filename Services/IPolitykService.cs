@@ -1,4 +1,6 @@
-﻿public interface IPolitykService
+﻿using Microsoft.Data.SqlClient;
+
+public interface IPolitykService
 {
     IEnumerable<PolitykDetailsDto> GetPolitycy();
 }

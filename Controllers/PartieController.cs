@@ -1,5 +1,9 @@
-﻿[ApiController]
+﻿
+using Microsoft.AspNetCore.Mvc;
+
+[ApiController]
 [Route("partie")]
+
 public class PartieController : ControllerBase
 {
     private readonly IPartiaService _service;

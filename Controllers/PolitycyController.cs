@@ -1,4 +1,6 @@
-﻿[ApiController]
+﻿using Microsoft.AspNetCore.Mvc;
+
+[ApiController]
 [Route("politycy")]
 public class PolitycyController : ControllerBase
 {
