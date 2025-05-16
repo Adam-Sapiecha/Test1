@@ -1,0 +1,8 @@
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.csproj.AssemblyReference.cache
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.AssemblyInfoInputs.cache
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.AssemblyInfo.cs
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.csproj.CoreCompileInputs.cache
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ksawi\OneDrive\Pulpit\Kol1Abpd\Kol1S31684\obj\Debug\net8.0\Kol1S31684.sourcelink.json
